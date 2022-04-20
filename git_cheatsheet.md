@@ -25,5 +25,5 @@
 | `git stach pop` | reapply the stashed changes |
 | `git stash apply` | applies stash but still keeps copy in stash |
 | `git restore <file-name>` | restores to last commit |
-| `git reset <commit-hash>` | reset back to the commit hash |
+| `git reset` | unstage files |
 | `git rebase -i HEAD~<X>` | enter interactive detached HEAD, follow instructions |

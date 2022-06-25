@@ -22,7 +22,7 @@
 | `git diff --HEAD` | difference between current changes and HEAD |
 | `git diff --staged` | difference between last commit and staged changes |
 | `git stash` | stash changes |
-| `git stach pop` | reapply the stashed changes |
+| `git stash pop` | reapply the stashed changes |
 | `git stash apply` | applies stash but still keeps copy in stash |
 | `git restore <file-name>` | restores to last commit |
 | `git reset <commit-hash>` | reset back to the commit hash |
